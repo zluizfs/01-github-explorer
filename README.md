@@ -1,6 +1,6 @@
 # Github Explorer
 
-Projeto desenvolvido na etapa 1 do Ignite na trilha ReactJS.
+Projeto desenvolvido no capítulo 1 no Ignite da Rocketseat na trilha ReactJS.
 
 ## Objetivo
 
